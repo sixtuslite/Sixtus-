@@ -1,0 +1,5 @@
+{
+  "name": "OSINT Investigator",
+  "description": "A public profile search tool using Google Search grounding to find information about individuals from public records and social media.",
+  "requestFramePermissions": ["geolocation"]
+}
